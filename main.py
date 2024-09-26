@@ -33,7 +33,7 @@ class MyApp(QWidget):
         self.initUI()
 
     def initUI(self):
-        self.setWindowTitle('七仔的Windows电池健康曲线查看软件')
+        self.setWindowTitle('七仔的Windows电池健康曲线查看软件V1.0.0')
         layout = QVBoxLayout()
 
         # 提示按钮
@@ -153,9 +153,6 @@ class MyApp(QWidget):
         self.canvas.axes.xaxis.set_major_locator(locator)
         self.canvas.axes.xaxis.set_major_formatter(formatter)
 
-        # 设置x轴的日期范围
-        # self.canvas.axes.set_xlim(dates_num[0], dates_num[-1])
-
         # 设置y轴为百分比形式
         self.canvas.axes.yaxis.set_major_formatter(lambda x, pos: f'{int(x)}%')
 
@@ -166,8 +163,7 @@ class MyApp(QWidget):
         end_health = health_values[-1]
 
         self.canvas.axes.set_title("电池健康曲线 开始：{} ({}%)，结束：{} ({}%)"
-                                   .format(start_date, start_date, end_date, end_health))
-        # self.show_label.setText(f"开始：{start_date} ({start_health}%)，结束：{end_date} ({end_health}%)")
+                                   .format(start_date, start_health, end_date, end_health))
 
         self.canvas.draw()
 
