@@ -8,34 +8,28 @@
 
 ## 使用方法
 
-1. 打开cmd窗口，输入下方命令:
- 
-```shell
-powercfg /batteryreport
-```
-
-![例子](./image/cmd.png)
-
-2. 打开软件，点击上方的按钮[导入win电池健康html文件]，然后选择刚才生成的html报告即可
+打开即可看到电池健康度:
 
 ![例子](./image/example.png)
 
-另：折线图上方的标题处有开始结束的时间和电池健康度
-
 ## 下载和运行:
 
-1. 可以clone这个项目，然后直接运行main.py
+1. 可以clone这个项目，然后直接运行Baby7WinBatteryHealth.py
 
-2. GitHub上有编译好的exe文件，直接下载即可：
+2. 可以clone这个项目，然后使用build_exe.py打包为exe文件
+
+2. GitHub上有使用编译好的exe文件，直接下载即可：
 
 [https://github.com/baby7/baby7-win-battery-health/releases](https://github.com/baby7/baby7-win-battery-health/releases)
 
 3. 百度网盘：
 
-链接：https://pan.baidu.com/s/1gkgJyVZ6vZbtSfo3b4l3hQ?pwd=baby 
+链接: https://pan.baidu.com/s/1Qg-5rNNB4z370eTJafQDUA?pwd=99pc
 
-提取码：baby
+提取码: 99pc
 
 4. 蓝奏：
 
-https://wwta.lanzoue.com/ir3jA2aw7e1c
+链接: https://wwta.lanzoue.com/iNvXa33ytjti
+
+密码: 9bkb
