@@ -1,7 +1,7 @@
 import subprocess
 
 # 定义版本号
-version = "V2.0.0"
+version = "V2.0.1"
 # 目标目录
 output_dir = f"out/Baby7WinBatteryHealth{version}"
 

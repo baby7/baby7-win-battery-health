@@ -24,12 +24,12 @@
 
 3. 百度网盘：
 
-链接: https://pan.baidu.com/s/1Qg-5rNNB4z370eTJafQDUA?pwd=99pc
+链接: https://pan.baidu.com/s/1KslcNstR5BihuTawsoW_ag?pwd=2ts4
 
-提取码: 99pc
+提取码: 2ts4
 
 4. 蓝奏：
 
-链接: https://wwta.lanzoue.com/iNvXa33ytjti
+https://wwta.lanzoue.com/i68zp34r5prc
 
-密码: 9bkb
+提取码: c8um
